@@ -56,3 +56,5 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+Текст для слияния
