@@ -57,3 +57,5 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 
 Текст для слияния commit
 Текст для слияния merge
+
+Проверка отслеживания через интерфейс вск
