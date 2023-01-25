@@ -68,4 +68,6 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 Текст для слияния commit
 Текст для слияния merge
 
-Проверка отслеживания через интерфейс вск
+Для удобства использования в Visual Studio Code, рекомендуется поставить это расширение, которое визуализирует ваши ветки и commit, и помогает с ними работать: 
+
+https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
