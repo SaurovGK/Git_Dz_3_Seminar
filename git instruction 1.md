@@ -56,3 +56,4 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 Для удаления ветки ввести команду "git branch -d 'name branch'"
 
 Текст для слияния commit
+Текст для слияния merge
