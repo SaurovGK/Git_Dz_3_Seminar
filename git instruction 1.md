@@ -72,3 +72,7 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 Для улучшения ваших навыков, ссылка на полезный тренажер с заданиями:
 
 https://learngitbranching.js.org/?locale=ru_RU
+
+Для удобства использования в Visual Studio Code, рекомендуется поставить это расширение, которое визуализирует ваши ветки и commit, и помогает с ними работать: 
+
+https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
